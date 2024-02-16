@@ -4,8 +4,6 @@ like a notepad, To do list is an interface made for routine list
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>
-      asdasd
-    <h1\>
+    <img src="gitcmg.png" type="image/png">
   </body>
 </html>
